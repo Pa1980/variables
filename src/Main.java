@@ -24,7 +24,7 @@ public class Main
         float f2=2.786f, f3=27.12f;
 
 // 3-е задание
-        byte ludPavl=23, annaSerg=27, ekatAndr=30, student=0;
+        byte ludPavl=23, annaSerg=27, ekatAndr=30;
         short copyBook=480;
         System.out.println("на каждого ученика по "+copyBook/(ludPavl+annaSerg+ekatAndr)+" тетрадей");
         System.out.println();
